@@ -130,7 +130,7 @@ fa-brands fa-apple{
   padding: 3% 2%;
 }
 @media (max-width:1067px){
-  #title{
+  .row .big-heading{
     text-align: center;
   }
   .title-image{
